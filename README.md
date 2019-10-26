@@ -15,7 +15,7 @@ This project requires **Python 3.1** and the following Python libraries installe
 
 This repository contains some of the machine learning models for Regression.
 
-The algorithms implemented are as following:
+The algorithms implemented are as follows:
 
 1) Decision Tree Regression
 2) Polynomial Regression

@@ -20,3 +20,4 @@ The algorithms implemented are as follows:
 1) Decision Tree Regression
 2) Polynomial Regression
 3) Random Forrest Regression
+4) SVR (Support Vector Regression)

@@ -21,3 +21,5 @@ The algorithms implemented are as follows:
 2) Polynomial Regression
 3) Random Forrest Regression
 4) SVR (Support Vector Regression)
+5) Simple Linear Regression
+6) Multiple Regression
